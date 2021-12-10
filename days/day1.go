@@ -2,6 +2,6 @@ package days
 
 import "fmt"
 
-func day1(){
-	fmt.println("test 1")
+func Day1() {
+	fmt.Println("test 1")
 }
