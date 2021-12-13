@@ -1,7 +1,7 @@
 package main
 
-import "days"
+import "./days"
 
 func main() {
-	days.day1()
+	days.Day1()
 }
