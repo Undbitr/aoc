@@ -1,6 +1,6 @@
 package main
 
-import "./days"
+import "github.com/Undbitr/aoc/main/days"
 
 func main() {
 	days.Day1()
